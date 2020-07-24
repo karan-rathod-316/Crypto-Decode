@@ -267,3 +267,14 @@ main {
     color: rgb(25, 28, 35);
     text-decoration: none;
 }
+
+
+/* extra */
+
+a {
+    color: white
+}
+
+.title-comments {
+    border: solid 1px black;
+}
